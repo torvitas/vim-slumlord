@@ -48,5 +48,4 @@ Usage
 Edit a `.uml` file and enter some plantuml code. When you save it, a preview
 will be forcefully inserted/updated at the top of your file!
 
-Note: I have only used this for sequence diagrams - the ASCII output of
-plantuml seems to be less than stellar for other diagram types.
+Note: I have disabled everything but sequence diagrams.
